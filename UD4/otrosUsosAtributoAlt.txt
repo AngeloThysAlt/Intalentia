@@ -1,0 +1,7 @@
+El atributo alt de la etiqueta <img>.
+
+Hoy día el atributo alt es un atributo esencial de la etiqueta <img>, puesto que proporciona un texto alternativo para la imagen cuando ésta no puede ser visualizada (conexión lenta, error en la fuente...).
+
+El uso alternativo es el reconocimiento y la consiguiente lectura por los lectores de pantalla, usado especialmente por aquellos con problemas de vista.
+
+En resumen, el uso del atributo alt mejora la accesibilidad y además, mejora el SEO (optimización de los motores de búsqueda).
