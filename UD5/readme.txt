@@ -1,0 +1,1 @@
+El atributo de ancho <td> no es compatible con HTML 5.
