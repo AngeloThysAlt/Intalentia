@@ -1,0 +1,5 @@
+La etiqueta frameset y frame han sido eliminado de HTML en la versión más reciente - HTML5.
+
+Rompen el principio fundamental de la web, que cada página tenga un sólo enlace, originando problemas a la hora de enlazar páginas y hacer bookmarks
+
+Además, son malos para la usabilidad, accesibilidad y la optimización de motores de búsquedas (SEO).
