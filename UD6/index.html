@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form autocomplete="on">
+        <label for="formName">Nombre: </label>
+        <input type="text" id="formName" name="formName"> <br><br>
+
+        <label for="formLastName">Apellidos</label>
+        <input type="text" id="formLastName" name="formLastName"> <br><br>
+
+        <fieldset>
+           <legend>Pasatiempos</legend> 
+
+           <input type="checkbox" name="hobby1" id="hobby1">
+           <label for="hobby1">Tennis</label> <br><br>
+
+           <input type="checkbox" name="hobby2" id="hobby2"> 
+           <label for="hobby2">Literatura</label> <br><br>
+
+           <input type="checkbox" name="hobby3" id="hobby3" checked> 
+           <label for="hobby3">Películas</label> 
+        </fieldset> <br><br>
+        
+        <label for="country">País</label>
+        <select name="country" id="country">
+            <optgroup label="Europa">
+                <option value="Spain">España</option>
+                <option value="Iceland">Islandia</option>
+                <option value="Belgium">Bélgica</option>
+            </optgroup>
+            <optgroup label="Asia">
+                <option value="India">India</option>
+                <option value="Japan">Japón</option>
+                <option value="Mongolia">Mongolia</option>
+            </optgroup>
+        </select> <br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+
+</html>

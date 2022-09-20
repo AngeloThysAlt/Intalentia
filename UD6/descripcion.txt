@@ -1,0 +1,7 @@
+Qué ocurre cuando se utiliza:
+    El atributo autocomplete.
+        Al rellenarlo por segunda vez se autocompletan las entradas anteriormente seleccionadas.
+    El atributo checked.
+        Nos selecciona por defecto una casilla de verificación.
+    La etiqueta optgroup.
+        Nos separa el menú desplegable en dos secciones en base al atributo label de la etiqueta optgroup.
