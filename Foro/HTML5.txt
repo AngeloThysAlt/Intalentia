@@ -1,0 +1,20 @@
+Qué cambios importantes trae HTML5 respecto a HTML4?
+
+    Simplificación de etiquetas, facilitando y agilizando su escritura.
+    Incluye varios elementos de multimedia, tiene soporte nativo de video y audio - función que antes desarrollaban plug ins (flash o silverlight).
+    Mayor resistencia ante errores sintácticos al no ser tan estricto.
+    Adición de etiquetas semánticas.
+    Nuevos tipos de input para cuestionarios (forms).
+
+Qué nuevas etiquetas u opciones más reseñables destacan?
+
+    Etiquetas semánticas: <header>, <nav>, <article>...
+    Etiquetas multimedia: <audio>, <video>...
+
+De qué formas podemos contrastar que nuestro código HTML cumpla con los estándares recomendados?
+
+    En cuanto a migración de HTML4 o anteriores a HTML5, se puede seguir esta guía: https://www.w3docs.com/learn-html/html5-migration.html
+
+    Para saber qué etiquetas están obsoletas y deberían ser reemplazados por CSS: https://www.tutorialspoint.com/html5/html5_deprecated_tags.htm
+
+    La documentación completa de HTML se puede encontrar aquí: https://html.spec.whatwg.org/
