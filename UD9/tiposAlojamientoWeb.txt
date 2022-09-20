@@ -1,0 +1,17 @@
+Existen varios tipos de alojamiento para nuestra página web, dependiendo de la forma en la que la categoricemos.
+
+    Hosting propio o ajeno
+        Podemos crear/habilitar nuestro propio servidor para hostear nuestra web site o, por el contrario, podemos buscar terceros que ofrezcan este servicio.
+
+    Hosting gratis o de pago
+        Existen algunos terceros que ofrecen el servicio de hosting de forma gratuita, sin embargo, los servicios de pago, en este caso, siempre ofrecerán más ancho de banda, mayor disponibilidad, ausencia de anuncios y banners y mucho más.
+
+    Hosting según propiedad y responsabilidad
+        Hosting compartido
+            En esta modalidad se comparte la infraestructura con varios propietarios/websites limitando la disponibilidad de los recursos.
+        Hosting privado virtual
+            En esta modalidad la infraestructura es compartida entre varios propietarios, igual que en el hosting compartido, sin embargo, cada uno tiene una proporción inamovible de recursos mediante la creación de máquinas virtuales encima del hardware.
+        Hosting dedicado
+            Aquí no se comparte la infraestructura, todo el servidor es de un único propietario.
+        Hosting en la nube
+            Parecido al hosting privado virtual, sin embargo, ofrece mayor escalabilidad,se paga según el uso/las necesidades del website.
