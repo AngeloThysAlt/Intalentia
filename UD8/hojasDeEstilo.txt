@@ -1,0 +1,7 @@
+Existen tres formas de aplicar hojas de estilo - estilos a secas.
+
+La primera forma es dentro de la etiqueta con el atributo style. De este modo aplicamos de forma directa y con la prioridad más alta el estilo sobre el elemento.
+
+La segunda forma es mediante la etiqueta style dentro de la etiqueta head del documento html. Así podemos establecer los estilos a aplicar en el presente documento html.
+
+La última forma es a través de un documento externo con extensión "css" - .css. Permitiéndose la aplicación del mismo en distintos archivos html mediante su enlazado a través de la etiqueta link con el atributo rel.
